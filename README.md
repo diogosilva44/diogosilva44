@@ -1,6 +1,6 @@
 # Hey, I'm Diogo Silva 👋
 
-🎓 Computer Engineering student @ University of Minho, Braga
+🎓 Software Engineering student @ University of Minho, Braga
 
 🔭 Currently finishing my Bachelor's degree
 
