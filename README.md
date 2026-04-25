@@ -1,7 +1,9 @@
 # Hey, I'm Diogo Silva 👋
 
 🎓 Computer Engineering student @ University of Minho, Braga
+
 🔭 Currently finishing my Bachelor's degree
+
 🌍 Based in Braga, Portugal
 
 ## About Me
@@ -13,7 +15,6 @@ Outside of coding, I'm a goalkeeper and a travel enthusiast.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
