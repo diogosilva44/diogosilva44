@@ -1,8 +1,8 @@
 # Hey, I'm Diogo Silva 👋
 
-🎓 Software Engineering student @ University of Minho, Braga
+🎓 Software Engineering graduate @ University of Minho, Braga
 
-🔭 Currently finishing my Bachelor's degree
+🔭 Seeking challenges 
 
 🌍 Based in Braga, Portugal
 
